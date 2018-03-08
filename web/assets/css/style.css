@@ -267,7 +267,7 @@ a{
 @media screen and (max-width: 991px){
     .navbar-collapse::after {
 
-        background-image: url("../img/logo/logomagenta.png");
+        background-image: url("../img/logo/logomanu.png");
 
         margin-top: 400px;
         background-size: 200px 200px;
@@ -289,6 +289,7 @@ margin-left: 15px;
         /*left: 0;*/
         /*z-index: -1;*/
         /*color: black !important;*/
+        background: white;
     }
 a{
     color: black;
