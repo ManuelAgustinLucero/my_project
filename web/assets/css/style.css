@@ -346,3 +346,10 @@ a{
     font-weight: 800;
     
 }
+
+h3 a {
+    color: #58595a !important;
+}
+.caption {
+    color: #58595a !important;
+} 
