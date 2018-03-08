@@ -267,7 +267,7 @@ a{
 @media screen and (max-width: 991px){
     .navbar-collapse::after {
 
-        background-image: url("../img/logo/logomanu.png");
+        background-image: url("../img/logo/logomanu.jpg");
 
         margin-top: 400px;
         background-size: 200px 200px;
